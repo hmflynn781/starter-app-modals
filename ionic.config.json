@@ -1,0 +1,7 @@
+{
+  "name": "starter-app-modals",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
